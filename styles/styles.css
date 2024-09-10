@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(94, 22, 38);
+  }
+  #miid1 {
+    border: 12px solid rgb(145, 227, 37);
+    text-align: center;
+  }
+  #miidS{
+    border: 8px solid rgb(180, 6, 6);
+  padding: 10px;
+  margin: 100px;  
+  }
+  h1 {
+    color: blue;
+  }
+  p {
+    color: red;
+    border: 8px solid powderblue;
+  padding: 5px;
+  margin: 150px;    
+  }
+
+  table, th, td {
+    border: 1px solid white;
+    border-collapse: collapse;
+  }
+ 
+ 
